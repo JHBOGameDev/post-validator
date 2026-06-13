@@ -14,7 +14,12 @@
     "test:coverage": "jest --coverage",
     "test:watch": "jest --watch"
   },
-  "keywords": ["tdd", "testing", "unisabana", "tyvs"],
+  "keywords": [
+    "tdd",
+    "testing",
+    "unisabana",
+    "tyvs"
+  ],
   "author": "Equipo TYVS",
   "license": "MIT",
   "packageManager": "pnpm@9.0.0",
@@ -23,8 +28,8 @@
   },
   "devDependencies": {
     "@types/express": "^4.17.21",
-    "@types/jest": "^29.5.12",
-    "@types/node": "^20.11.0",
+    "@types/jest": "^29.5.14",
+    "@types/node": "^20.19.43",
     "@types/supertest": "^6.0.2",
     "jest": "^29.7.0",
     "supertest": "^7.0.0",
