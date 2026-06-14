@@ -168,10 +168,6 @@ Verificar que funciona abriendo http://localhost:3000/health en el navegador.
 | Documento | Descripción |
 |---|---|
 | docs/BDD_ESCENARIOS.md | Escenarios BDD derivados del Activity 2 |
-| docs/PERSONA_A_U3.md | Guía de pruebas unitarias |
-| docs/PERSONA_B_U4.md | Guía de pruebas de integración y sistema |
-| docs/PERSONA_C_U5.md | Guía de pruebas de carga y rendimiento |
-| docs/PERSONA_ABC_U6.md | Guía de gestión de defectos |
 | defectos_unitarias.md | Defectos encontrados en U3 |
 | defectos_integracion.md | Defectos encontrados en U4 |
 | perf/defectos_rendimiento.md | Defectos de rendimiento en U5 |
